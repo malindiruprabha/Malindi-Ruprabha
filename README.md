@@ -1,5 +1,5 @@
 <h1 align="center" style="color#8B0000;">
-  Hi 👋, I'm <span style="color:#8B0000;">Malindi Ruprabha</span>
+  Hi 👋,  I'm <span style="color:#8B0000;">Malindi Ruprabha</span>
 </h1>
 
 <h3 align="center" style="color:#8B0000;">
