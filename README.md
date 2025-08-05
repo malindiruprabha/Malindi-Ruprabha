@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anu123538&label=Profile%20views&color=1e90ff&style=flat" alt="anu123538" />
+  <img src="https://komarev.com/ghpvc/?username=malindiruprabha&label=Profile%20views&color=1e90ff&style=flat" alt="anu123538" />
 </p>
 
 <h3 align="left" style="color:#ff69b4;">🏆 GitHub Trophies:</h3>
@@ -23,8 +23,8 @@
 
 <ul style="font-size: 1.1rem; color:#264653;">
   <li>🌱 I’m currently learning <strong style="color:#2a9d8f;">Java, Python, Node.js, and React</strong></li>
-  <li>💬 Ask me about <strong style="color:#e76f51;">Java,python and automated testing</strong></li>
-  <li>📫 How to reach me: <strong style="color:#264653;">anuththaraimanshi842@gmail.com</strong></li>
+  <li>💬 Ask me about <strong style="color:#e76f51;">Java,python,R programming and SQL</strong></li>
+  <li>📫 How to reach me: <strong style="color:#264653;">ruumalii420@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong style="color:#f4a261;">I think I am funny</strong></li>
 </ul>
 
@@ -180,25 +180,25 @@
 <h3 align="left" style="color:#e76f51;">📝 Top Languages Used:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu123538&show_icons=true&locale=en&layout=compact&theme=react" alt="anu123538" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malindiruprabha&show_icons=true&locale=en&layout=compact&theme=react" alt="anu123538" />
 </p>
 
 
 <h3 align="left" style="color:#2a9d8f;">📊 GitHub Stats:</h3>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu123538&show_icons=true&locale=en&theme=react" alt="anu123538" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malindiruprabha&show_icons=true&locale=en&theme=react" alt="anu123538" />
 </p>
 
 
 <h3>🔥 GitHub Streak Stats</h3>
 
-![](https://nirzak-streak-stats.vercel.app/?user=anu123538&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=malindiruprabha&theme=radical&hide_border=false)
 
 
 
 <h3>🔝 Top Contributed Repo</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=anu123538&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=malindiruprabha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 <hr />
 
