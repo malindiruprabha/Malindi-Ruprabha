@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anu123538&theme=radical" alt="anu123538" />
+    <img src="https://github-profile-trophy.vercel.app/?username=malindiruprabha&theme=radical" alt="anu123538" />
   </a>
 </p>
 
