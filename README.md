@@ -3,7 +3,9 @@
 </h1>
 
 <h3 align="center" style="color:#8B0000;">
- I'm a software engineering student from Sri Lanka with a passion for crafting smooth, user-friendly frontend experiences and a strong interest in QA engineering. I enjoy exploring the intersection of development and quality assurance to ensure polished, reliable software
+  I'm a software engineering student from Sri Lanka with a passion for crafting smooth, user-friendly frontend experiences and a strong interest in data analysis, data engineering, and data science. I enjoy exploring the intersection of development, data, and quality assurance to build polished, reliable, and insight-driven software solutions.
+
+
 </h3>
 
 <p align="center">
