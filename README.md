@@ -24,7 +24,7 @@
 
 ### 📫 Reach Me At
 - *Email*: ruumalii420@gmail.com
-- *LinkedIn*: [malindi-ruprabha](https://www.linkedin.com/in/malindi-ruprabha-4604b8298/)
+- *LinkedIn*: [https://www.linkedin.com/in/malindi-ruprabha-4604b8298/](https://www.linkedin.com/in/malindi-ruprabha-4604b8298/)
 
 ---
 
